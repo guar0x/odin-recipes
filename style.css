@@ -1,0 +1,35 @@
+li {
+    font-size: 20px;
+}
+body {
+    background-color: rgb(169, 219, 184);
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 28px;
+}
+h3 {
+    color: rgb(0, 0, 0);
+}
+p {
+    color:chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
+.preview {
+    width: 300px;
+    height: auto;
+}
+.ingredients li {
+    color: coral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.steps li h3{
+    color:darkgreen;
+}
+.dish {
+    /* trying to center with padding */
+    padding-left: 35%; 
+    width: 500px;
+}
+
